@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain,Ethereum**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/yuvraj110?tab=repositories)
 
 - 📫 How to reach me **yuvrajprakash007@gmail.com**
 
