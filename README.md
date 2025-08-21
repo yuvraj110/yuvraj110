@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm YUVRAJ PRAKASH</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Working as professinal Software Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj110&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj110" alt="yuvraj110" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Developer**
+- 🌱 I’m currently  **Java Backend Developer**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yuvraj110?tab=repositories)
 
 - 📫 How to reach me **yuvrajprakash007@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuvraj-prakash-93635b18a/](https://www.linkedin.com/in/yuvraj-prakash-93635b18a/)
-
-- ⚡ Fun fact **I am too smart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
