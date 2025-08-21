@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj110" alt="yuvraj110" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain,Ethereum**
+- 🌱 I’m currently learning **Java Backend Developer**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yuvraj110?tab=repositories)
 
