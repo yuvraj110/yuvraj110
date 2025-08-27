@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YUVRAJ PRAKASH</h1>
 <h3 align="center">Working as professinal Software Enginner</h3>
 
-<p align="left"> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e8091577-44ad-4af0-82b5-d03460926d90" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj110" alt="yuvraj110" /></a> </p>
 
 - 🌱 I’m currently  **Java Backend Developer**
