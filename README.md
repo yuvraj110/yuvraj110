@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Prakash</h1>
-<h3 align="center">Professional Software Engineer | Java Backend Developer</h3>
+<table>
+<tr>
+<td width="150">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Yuvraj Prakash" width="150" style="border-radius:50%" />
+</td>
+<td>
+  <h1>Hi 👋, I'm Yuvraj Prakash</h1>
+  <h3>Professional Software Engineer | Java Backend Developer</h3>
+</td>
+</tr>
+</table>
+
 
 - 🌱 I’m currently working as a **Java Backend Developer**  
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/yuvraj110?tab=repositories)  
