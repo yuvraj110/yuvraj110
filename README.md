@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td width="150">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Yuvraj Prakash" width="150" style="border-radius:50%" />
+  <img src="<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/09e2c29e-805d-4e1a-8e61-78c26d0dd337" />
+" alt="Yuvraj Prakash" width="150" style="border-radius:50%" />
 </td>
 <td>
   <h1>Hi 👋, I'm Yuvraj Prakash</h1>
