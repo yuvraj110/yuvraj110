@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="150">
- <img src="https://github.com/user-attachments/assets/09e2c29e-805d-4e1a-8e61-78c26d0dd337?v=2"
+ <img src="https://github.com/user-attachments/assets/09e2c29e-805d-4e1a-8e61-78c26d0dd337"
      alt="Yuvraj Prakash"
      width="150"
      height="150"
