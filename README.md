@@ -63,6 +63,16 @@
 
 ---
 
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-red)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blueviolet)
+
+---
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=yuvraj110)
