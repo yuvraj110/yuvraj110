@@ -63,7 +63,7 @@
 
 ---
 
-<!-- FIXED TOP LANGUAGES CARD -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj110&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj110&layout=compact)
+
